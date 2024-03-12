@@ -56,3 +56,16 @@ if Volt:
     print(f"Volt a feltételnek megfelelő nap ({nap}) a játék teljes ideje alatt.")
 else:
     print(f"Nem volt a feltételnek megfelelő nap a játék teljes ideje alatt.")
+
+# Bónusz feladat (HF)
+"""
+Ádám és Ágota úgy játszották a játékot, hogy aki pirosat dob a korong-al, az 1 pontot kap.
+Aki pedig a kéket, az -1-et. 
+A példában látható módon írd ki a képernyőre, hogy ki nyerte a játékot
+
+Péda:
+    Ádám pontszáma: 36
+    Ágota pontszáma: 27
+    Ádám nyerte a játékot
+"""
+print()
